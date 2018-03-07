@@ -1,0 +1,21 @@
+body {
+  background-color:rgb(40, 39, 48);
+  margin: 0px;
+  padding: 0px;
+}
+
+#intro {
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  color: lightblue;
+  font-family: "brush script std";
+  font-size: 8vw;
+  text-align: center;
+  transform: translateY(-50%);
+}
+
+#intro>b {
+  font-size: 12vw;
+  color: skyblue;
+}
